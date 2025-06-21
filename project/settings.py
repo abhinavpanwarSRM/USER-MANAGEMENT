@@ -137,6 +137,5 @@ if not DEBUG:
     
     # For Render deployment
     CSRF_TRUSTED_ORIGINS = [
-        'https://*.onrender.com',
-        'https://*.yourdomain.com'
+        'https://user-management-uta4.onrender.com'
     ]
